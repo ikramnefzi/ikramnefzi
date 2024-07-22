@@ -1,6 +1,5 @@
 ## Hi, I'm Ikram 👋
 
-<!--
 **ikramnefzi/ikramnefzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ikram-nefzi-7019741b1/)
@@ -16,4 +15,3 @@ I'm a data scientist and analyst passionate about uncovering insights from data 
 - **Database management**: SQL, PostgreSQL
 🌱I am currently learning advanced machine learning and deep learning techniques
 
--->
